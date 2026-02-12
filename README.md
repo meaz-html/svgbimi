@@ -1,2 +1,0 @@
-# svgbimi
-Get out
